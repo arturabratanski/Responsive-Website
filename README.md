@@ -6,9 +6,13 @@ __Description__
 
 ## Important files
 
-* index.html -> main HTML code responsible for main page content
-* style.css -> main CSS code responsible for main page styling, as well and hover effects and animations
-* queries -> code for setting up breakpoints, to control page layout for different resolutions
-* script.js -> various scripts to activate effects on page when scrolled to certain point (waypoint)
+* index.html -> main HTML code responsible for main page content  
+    _index.html_
+* style.css -> main CSS code responsible for main page styling, as well and hover effects and animations  
+    _resources/css/style.css_
+* queries -> code for setting up breakpoints, to control page layout for different resolutions  
+    _resources/css/queries.css_
+* script.js -> various scripts to activate effects on page when scrolled to certain point (waypoint)  
+    _resources/js/script.js_
 
 ### Other files are vendors data, supplied or found for this project purpose
